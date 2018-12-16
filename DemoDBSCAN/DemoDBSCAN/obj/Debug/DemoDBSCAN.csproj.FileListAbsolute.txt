@@ -1,0 +1,20 @@
+E:\code visual\DemoDBSCAN\DemoDBSCAN\bin\Debug\DemoDBSCAN.exe.config
+E:\code visual\DemoDBSCAN\DemoDBSCAN\bin\Debug\DemoDBSCAN.exe
+E:\code visual\DemoDBSCAN\DemoDBSCAN\bin\Debug\DemoDBSCAN.pdb
+E:\code visual\DemoDBSCAN\DemoDBSCAN\obj\Debug\DemoDBSCAN.csprojResolveAssemblyReference.cache
+E:\code visual\DemoDBSCAN\DemoDBSCAN\obj\Debug\DemoDBSCAN.exe
+E:\code visual\DemoDBSCAN\DemoDBSCAN\obj\Debug\DemoDBSCAN.pdb
+C:\Users\HP\Desktop\DemoDBSCAN\DemoDBSCAN\bin\Debug\DemoDBSCAN.exe.config
+C:\Users\HP\Desktop\DemoDBSCAN\DemoDBSCAN\bin\Debug\DemoDBSCAN.exe
+C:\Users\HP\Desktop\DemoDBSCAN\DemoDBSCAN\bin\Debug\DemoDBSCAN.pdb
+C:\Users\HP\Desktop\DemoDBSCAN\DemoDBSCAN\obj\Debug\DemoDBSCAN.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\DemoDBSCAN\DemoDBSCAN\obj\Debug\DemoDBSCAN.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\DemoDBSCAN\DemoDBSCAN\obj\Debug\DemoDBSCAN.exe
+C:\Users\HP\Desktop\DemoDBSCAN\DemoDBSCAN\obj\Debug\DemoDBSCAN.pdb
+C:\Users\HP\Desktop\Đồ án 1\DemoDBSCAN\DemoDBSCAN\bin\Debug\DemoDBSCAN.exe.config
+C:\Users\HP\Desktop\Đồ án 1\DemoDBSCAN\DemoDBSCAN\bin\Debug\DemoDBSCAN.exe
+C:\Users\HP\Desktop\Đồ án 1\DemoDBSCAN\DemoDBSCAN\bin\Debug\DemoDBSCAN.pdb
+C:\Users\HP\Desktop\Đồ án 1\DemoDBSCAN\DemoDBSCAN\obj\Debug\DemoDBSCAN.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Đồ án 1\DemoDBSCAN\DemoDBSCAN\obj\Debug\DemoDBSCAN.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Đồ án 1\DemoDBSCAN\DemoDBSCAN\obj\Debug\DemoDBSCAN.exe
+C:\Users\HP\Desktop\Đồ án 1\DemoDBSCAN\DemoDBSCAN\obj\Debug\DemoDBSCAN.pdb
